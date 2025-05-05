@@ -1,7 +1,3 @@
-Este é um projeto de aprendizado do git e github
-
-
-
 Boas praticas para usar git e github
 
 1- Sempre inicie uma branch ao clonar um repositório
